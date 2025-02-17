@@ -36,13 +36,13 @@ A Python script that allows you to apply NVIDIA Broadcast's audio effects (like 
 
 Basic usage:
 
-python washit.py input_file output.m4a
+#python washit.py input_file output.m4a
 
 Example:
 
-python washit.py voice_recording.wav enhanced_voice.m4a
+#python washit.py voice_recording.wav enhanced_voice.m4a
 
-python washit.py podcast_episode.mp4 studio_quality.m4a
+#python washit.py podcast_episode.mp4 studio_quality.m4a
 
 Supported input formats:
 - WAV (.wav)
