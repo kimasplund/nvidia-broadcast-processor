@@ -5,7 +5,7 @@ A Python script that allows you to apply NVIDIA Broadcast's audio effects (like 
 ## Prerequisites
 
 - Windows 10/11
-- NVIDIA Broadcast installed and configured
+- NVIDIA Broadcast installed, configured and running
 - [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/) installed
 - FFmpeg installed and added to system PATH
 - Python 3.6 or higher
